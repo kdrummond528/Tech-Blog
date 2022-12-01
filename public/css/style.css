@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -17,11 +18,13 @@ header {
 /* title of pg in nav bar */
 .pgtitle {
     text-align: center;
-    font-size: 40px;
+    font-weight: bold;
+    font-size: 36px;
     color: rgb(39, 19, 19);
     background-color: rgb(181, 212, 181);
     border-radius: 10px 10px;
-    width: 270px;
+    width: 260px;
+    padding: 8px 8px;
     margin-top: 20px;
     margin-left: 30px;
 }
@@ -64,4 +67,47 @@ nav li a:hover {
     background-color: rgb(39, 19, 19);
     color: rgb(181, 212, 181);
     padding: 10px 10px;
+}
+
+/* username and pw titles on login pg */
+.logininfotitle {
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+/* input boxes for login information */
+.logininfo {
+    margin-left: 10px;
+    margin-top: 6px;
+    margin-bottom: 8px;
+    width: 98%;
+    height: 35px;
+    border: none;
+}
+
+/* button to login after entering login info */
+.loginbtn {
+    width: 98%;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 5px;
+    border-radius: 8px 8px;
+    border: none;
+    color: white;
+    background-color: rgb(98, 96, 96);
+    height: 40px;
+    font-size: 20px;
+}
+
+/* sign up instead under login box on login pg */
+.signup-p {
+    padding-left: 10px;
+    margin-top: 5px;
+    padding-bottom: 15px;
+}
+
+.signup-p a {
+    text-decoration: none;
+    color: black;
 }
