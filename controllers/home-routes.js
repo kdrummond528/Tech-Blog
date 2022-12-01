@@ -23,3 +23,5 @@ router.get("/signup", (req, res) => {
 // get all posts
 
 // get a single post
+
+module.exports = router;
