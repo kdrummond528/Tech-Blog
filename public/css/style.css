@@ -123,3 +123,25 @@ nav li a:hover {
 .login-p a:hover {
     color: rgb(39, 19, 19);
 }
+
+/* section with the home pg post container  */
+.homecardcontainer {
+    border: 3px solid rgb(39, 19, 19);
+    width: 90%;
+    margin-top: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+/* title of home pg post container */
+.homecardtitle {
+    background-color: rgb(39, 19, 19);
+    color: rgb(181, 212, 181);
+    padding: 10px 10px;
+}
+
+.homecard-p {
+    padding-left: 10px;
+    margin-top: 15px;
+    padding-bottom: 15px;
+}

@@ -6,7 +6,7 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Mock-Up](#mock-up)
-- [Links](#links)
+- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## Description
@@ -69,7 +69,11 @@ The following animation demonstrates the application functionality:
 
 [Back to top](#tech-blog)
 
-## Links
+## Screenshots
+
+![screenshots]()
+![screenshots]()
+![screenshots]()
 
 [Back to top](#tech-blog)
 
