@@ -71,9 +71,9 @@ The following animation demonstrates the application functionality:
 
 ## Screenshots
 
-![screenshots]()
-![screenshots]()
-![screenshots]()
+![screenshots](./public/assets/Screen%20Shot%202022-12-01%20at%204.37.26%20PM.png)
+![screenshots](./public/assets/Screen%20Shot%202022-12-01%20at%204.32.38%20PM.png)
+![screenshots](./public/assets/Screen%20Shot%202022-12-01%20at%204.32.46%20PM.png)
 
 [Back to top](#tech-blog)
 
